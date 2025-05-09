@@ -1,0 +1,1305 @@
+{
+  "accuracy": 0.34,
+  "results": [
+    {
+      "passage": "The air hostess   was in a small kitchen at the back of the plane, preparing the plates for lunch, when a little old lady came and spoke to her, \"Could you please tell me,\" she asked, \"where is the ladies' lavatory   in the plane?\"\n\"Yes, madam,\" said the air hostess and smiled. \"It is right at the other end of the plane---at the front.\"\nThe little lady went too far. She walked all the way to the front of the plane, opened the door in front of her, and saw the captain of the plane and the other officers. They were all busy with their work and did not see her. She went out again, shut the door and returned to the air hostess.\n\"Oh, didn't you find it, madam?\" the girl asked her. \"Yes, I did,\" said the little lady. \"But there are four men in the ladies' lavatory watching television.\"",
+      "question": "The story happened  _  .",
+      "options": [
+        "in the evening",
+        "in the afternoon",
+        "in the morning",
+        "at midnight"
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "is_correct": true
+    },
+    {
+      "passage": "The air hostess   was in a small kitchen at the back of the plane, preparing the plates for lunch, when a little old lady came and spoke to her, \"Could you please tell me,\" she asked, \"where is the ladies' lavatory   in the plane?\"\n\"Yes, madam,\" said the air hostess and smiled. \"It is right at the other end of the plane---at the front.\"\nThe little lady went too far. She walked all the way to the front of the plane, opened the door in front of her, and saw the captain of the plane and the other officers. They were all busy with their work and did not see her. She went out again, shut the door and returned to the air hostess.\n\"Oh, didn't you find it, madam?\" the girl asked her. \"Yes, I did,\" said the little lady. \"But there are four men in the ladies' lavatory watching television.\"",
+      "question": "What were the four men doing when the little old lady opened the door?",
+      "options": [
+        "They were busy working in the control room.",
+        "They were working while watching television.",
+        "They were watching television in the ladies' lavatory.",
+        "They were enjoying themselves by watching television."
+      ],
+      "ground_truth": "A",
+      "prediction": "C",
+      "is_correct": false
+    },
+    {
+      "passage": "The air hostess   was in a small kitchen at the back of the plane, preparing the plates for lunch, when a little old lady came and spoke to her, \"Could you please tell me,\" she asked, \"where is the ladies' lavatory   in the plane?\"\n\"Yes, madam,\" said the air hostess and smiled. \"It is right at the other end of the plane---at the front.\"\nThe little lady went too far. She walked all the way to the front of the plane, opened the door in front of her, and saw the captain of the plane and the other officers. They were all busy with their work and did not see her. She went out again, shut the door and returned to the air hostess.\n\"Oh, didn't you find it, madam?\" the girl asked her. \"Yes, I did,\" said the little lady. \"But there are four men in the ladies' lavatory watching television.\"",
+      "question": "Which of the following is TRUE according to the passage?",
+      "options": [
+        "The air hostess was humorous  .",
+        "The old lady didn't find the ladies' lavatory.",
+        "The old lady was fooled by the air hostess.",
+        "There was no ladies' lavatory in the plane."
+      ],
+      "ground_truth": "B",
+      "prediction": "B",
+      "is_correct": true
+    },
+    {
+      "passage": "Moscow,Russia(Space news)-\"The computer is a better chess player,\"insisted Viktor Prozorov,the loser .\" It seemed as if it were laughing after every good move.I know I should have beaten it for the sake of mankind ,but I just couldn't win,\" he announced and shook his head sadly.\nProzorov's disappointment was shared by several grand masters who were present,some of whom were so upset that they shouted at the machine.Many chess players said that this meant the end of chess championships around the world,since the fun had been taken out of the game.\nThe computer walked-or rather,rolled-away with 5,000 dollars in prize money and limited its remarks to a set of noises and light.",
+      "question": "Which of the following best gives the main idea of this newspaper article?",
+      "options": [
+        "5,000 dollars goes to a computer!",
+        "New invention a laughing computer!",
+        "World's best chess player beaten!",
+        "Computer defeats man in chess!"
+      ],
+      "ground_truth": "D",
+      "prediction": "B",
+      "is_correct": false
+    },
+    {
+      "passage": "Moscow,Russia(Space news)-\"The computer is a better chess player,\"insisted Viktor Prozorov,the loser .\" It seemed as if it were laughing after every good move.I know I should have beaten it for the sake of mankind ,but I just couldn't win,\" he announced and shook his head sadly.\nProzorov's disappointment was shared by several grand masters who were present,some of whom were so upset that they shouted at the machine.Many chess players said that this meant the end of chess championships around the world,since the fun had been taken out of the game.\nThe computer walked-or rather,rolled-away with 5,000 dollars in prize money and limited its remarks to a set of noises and light.",
+      "question": "What was it that Prozorov felt most bitter about?",
+      "options": [
+        "That he didn't win the$5,000.",
+        "That he hadn't tried his best.",
+        "That he had lost to a machine.",
+        "That this was the end of the chess game."
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "is_correct": true
+    },
+    {
+      "passage": "Moscow,Russia(Space news)-\"The computer is a better chess player,\"insisted Viktor Prozorov,the loser .\" It seemed as if it were laughing after every good move.I know I should have beaten it for the sake of mankind ,but I just couldn't win,\" he announced and shook his head sadly.\nProzorov's disappointment was shared by several grand masters who were present,some of whom were so upset that they shouted at the machine.Many chess players said that this meant the end of chess championships around the world,since the fun had been taken out of the game.\nThe computer walked-or rather,rolled-away with 5,000 dollars in prize money and limited its remarks to a set of noises and light.",
+      "question": "After winning the game,the computer   _   .",
+      "options": [
+        "laughed",
+        "walked away",
+        "made some remarks",
+        "gave out some lights and sounds"
+      ],
+      "ground_truth": "D",
+      "prediction": "B",
+      "is_correct": false
+    },
+    {
+      "passage": "Moscow,Russia(Space news)-\"The computer is a better chess player,\"insisted Viktor Prozorov,the loser .\" It seemed as if it were laughing after every good move.I know I should have beaten it for the sake of mankind ,but I just couldn't win,\" he announced and shook his head sadly.\nProzorov's disappointment was shared by several grand masters who were present,some of whom were so upset that they shouted at the machine.Many chess players said that this meant the end of chess championships around the world,since the fun had been taken out of the game.\nThe computer walked-or rather,rolled-away with 5,000 dollars in prize money and limited its remarks to a set of noises and light.",
+      "question": "Many chess players felt that playing with a computer would   _   .",
+      "options": [
+        "make the game tougher",
+        "make the game less interesting",
+        "make man appear foolish",
+        "make man lose lots of"
+      ],
+      "ground_truth": "B",
+      "prediction": "B",
+      "is_correct": true
+    },
+    {
+      "passage": "Read the following directions on a bottle of medicine:\n    \"Take two tablets with water, followed by one tablet every eight hours, as required, For maximum night-time and early morning relief, take two tablets at bed - time, Do not take more than six tablets in twenty-four hours. \n    For children six to twelve years old, give half the amount for a grownup. For children under six years old, ask for your doctor's advice.\n    Reduce the amount if nervousness,  _ , or sleeplessness occurs,\"",
+      "question": "The directions on this medicine bottle clearly warn the patient not to take more than   _  .",
+      "options": [
+        "twenty-four tablets a day.",
+        "eight tablets a day.",
+        "six tablets a day.",
+        "three tablets a day."
+      ],
+      "ground_truth": "C",
+      "prediction": "B",
+      "is_correct": false
+    },
+    {
+      "passage": "Read the following directions on a bottle of medicine:\n    \"Take two tablets with water, followed by one tablet every eight hours, as required, For maximum night-time and early morning relief, take two tablets at bed - time, Do not take more than six tablets in twenty-four hours. \n    For children six to twelve years old, give half the amount for a grownup. For children under six years old, ask for your doctor's advice.\n    Reduce the amount if nervousness,  _ , or sleeplessness occurs,\"",
+      "question": "We can infer from the directions that   _  .",
+      "options": [
+        "the medicine could cause some people to feel nervous.",
+        "children may take the same amount that grown-ups take.",
+        "one may not take this medicine before going to bed.",
+        "the medicine is a liquid."
+      ],
+      "ground_truth": "A",
+      "prediction": "B",
+      "is_correct": false
+    },
+    {
+      "passage": "Read the following directions on a bottle of medicine:\n    \"Take two tablets with water, followed by one tablet every eight hours, as required, For maximum night-time and early morning relief, take two tablets at bed - time, Do not take more than six tablets in twenty-four hours. \n    For children six to twelve years old, give half the amount for a grownup. For children under six years old, ask for your doctor's advice.\n    Reduce the amount if nervousness,  _ , or sleeplessness occurs,\"",
+      "question": "If one cannot sleep, it is suggested that he   _   .",
+      "options": [
+        "take two tablets before going to bed.",
+        "take less than two tablets before going to bed.",
+        "stop taking the medicine.",
+        "ask advice of a doctor."
+      ],
+      "ground_truth": "B",
+      "prediction": "B",
+      "is_correct": true
+    },
+    {
+      "passage": "Read the following directions on a bottle of medicine:\n    \"Take two tablets with water, followed by one tablet every eight hours, as required, For maximum night-time and early morning relief, take two tablets at bed - time, Do not take more than six tablets in twenty-four hours. \n    For children six to twelve years old, give half the amount for a grownup. For children under six years old, ask for your doctor's advice.\n    Reduce the amount if nervousness,  _ , or sleeplessness occurs,\"",
+      "question": "Obviously the medicine   _   .",
+      "options": [
+        "may be dangerous to small children.",
+        "cannot be taken by children under twelve years old.",
+        "may be taken by children but not by grown-ups.",
+        "may be taken by grown-ups but not by children."
+      ],
+      "ground_truth": "A",
+      "prediction": "D",
+      "is_correct": false
+    },
+    {
+      "passage": "Even if you have been very careful, it is possible that your kids can develop some bad TV habits. It is not too late if the bad habits have already occurred.         56         .Follow the steps below to start breaking your kids'bad habits.\nLimit the time of watching TV. Limit the TV to at most two hours a day for kids over two years old and no TV at all for kids under the age of two. This does not mean that you have to allow the two hours each day.       57",
+      "question": "Make it clear that you are firm about not allowing them to watch the program.",
+      "options": [
+        "less TV is better.",
+        "Make the TV hard to use.",
+        "Be a good example to your kids.",
+        "Take the TV out of their room or put it away in storage.\nE. Explain to them why you feel the show is not good for them.\nF. This is the best way to make sure that they are watching the right programs.\nG. You just need to be ready to take control of the situation and break those bad habits."
+      ],
+      "ground_truth": "C",
+      "prediction": "B",
+      "is_correct": false
+    },
+    {
+      "passage": "Classes for foreign students at all levels\n3 months, 6 months, 9 months and one year course Open all year\nSmall class (maximum  12 students)\nLibrary, language laboratory and listening center\nAccommodation  with selected families 25 minutes from London\nCourse fees for English for one year are PS1, 380, with reduction for shorter periods of study.",
+      "question": "Lincoln College of English   _  .",
+      "options": [
+        "is at the centre of London",
+        "lies far away from London",
+        "takes in foreign students, from beginners to the advanced",
+        "accepts students only at the beginning of the year"
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "is_correct": true
+    },
+    {
+      "passage": "Classes for foreign students at all levels\n3 months, 6 months, 9 months and one year course Open all year\nSmall class (maximum  12 students)\nLibrary, language laboratory and listening center\nAccommodation  with selected families 25 minutes from London\nCourse fees for English for one year are PS1, 380, with reduction for shorter periods of study.",
+      "question": "While you stay there,   _   will take care of you.",
+      "options": [
+        "the school where you study",
+        "the family you have chosen",
+        "your classmates",
+        "your own parents"
+      ],
+      "ground_truth": "B",
+      "prediction": "C",
+      "is_correct": false
+    },
+    {
+      "passage": "Classes for foreign students at all levels\n3 months, 6 months, 9 months and one year course Open all year\nSmall class (maximum  12 students)\nLibrary, language laboratory and listening center\nAccommodation  with selected families 25 minutes from London\nCourse fees for English for one year are PS1, 380, with reduction for shorter periods of study.",
+      "question": "If you go there for a one-term course, you will pay   _   for it.",
+      "options": [
+        "PS1, 380",
+        "over PS1, 380",
+        "much less than PS1, 380",
+        "nothing"
+      ],
+      "ground_truth": "C",
+      "prediction": "B",
+      "is_correct": false
+    },
+    {
+      "passage": "A man heard that a certain government wanted a clerk, so wrote and asked for the position. But while he was waiting for an answer, a friend of his introduced him to the head of the department, who gave him the job. Several months later, while the man was working in the department, he got a letter that had been sent to him from the place he used to live in. This letter said,\n\"Dear sir,\nWe are sorry to have to tell you that we cannot offer work in this department because we do not think that you would be able to do the work successfully.\nYour faithfully.\"\nThe man laughed, but when he looked at the letter more carefully, he saw that he had signed it himself.",
+      "question": "At the beginning of the story the man wanted   _  .",
+      "options": [
+        "to be a clerk in a certain government",
+        "his friend to introduce him job",
+        "to visit the head of the department",
+        "to get an answer from the department"
+      ],
+      "ground_truth": "A",
+      "prediction": "B",
+      "is_correct": false
+    },
+    {
+      "passage": "A man heard that a certain government wanted a clerk, so wrote and asked for the position. But while he was waiting for an answer, a friend of his introduced him to the head of the department, who gave him the job. Several months later, while the man was working in the department, he got a letter that had been sent to him from the place he used to live in. This letter said,\n\"Dear sir,\nWe are sorry to have to tell you that we cannot offer work in this department because we do not think that you would be able to do the work successfully.\nYour faithfully.\"\nThe man laughed, but when he looked at the letter more carefully, he saw that he had signed it himself.",
+      "question": "He got a letter that had been sent to him, which means   _  .",
+      "options": [
+        "he himself received the letter",
+        "someone else got it and then didn't bring it to him",
+        "someone else got it and then brought it to him",
+        "the government sent it to him"
+      ],
+      "ground_truth": "C",
+      "prediction": "A",
+      "is_correct": false
+    },
+    {
+      "passage": "A man heard that a certain government wanted a clerk, so wrote and asked for the position. But while he was waiting for an answer, a friend of his introduced him to the head of the department, who gave him the job. Several months later, while the man was working in the department, he got a letter that had been sent to him from the place he used to live in. This letter said,\n\"Dear sir,\nWe are sorry to have to tell you that we cannot offer work in this department because we do not think that you would be able to do the work successfully.\nYour faithfully.\"\nThe man laughed, but when he looked at the letter more carefully, he saw that he had signed it himself.",
+      "question": "What do you think of the man?",
+      "options": [
+        "He was too careless.",
+        "He was very honest.",
+        "He was very clever.",
+        "He was rather stupid."
+      ],
+      "ground_truth": "A",
+      "prediction": "B",
+      "is_correct": false
+    },
+    {
+      "passage": "Do you need friends? I'm sure your answer is \"Yes,of course. Everybody does! \" You need friends when you play and when you work. If you have friends, you will feel happy. If you have no friends. you will feel lonely  . \nDo you know how to make friends? There is only one good way--You make friends by being friendly. \nA friendly person is interested in other people. He is always helpful If you want to make friends with a new classmate, you can talk with him, tell him about the other classmates in your class and try your best to be helpful to him.",
+      "question": "We need friends   _  .",
+      "options": [
+        "because we must play with them",
+        "Because we must work with them",
+        "when we play and when we work",
+        "when we talk with them"
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "is_correct": true
+    },
+    {
+      "passage": "Do you need friends? I'm sure your answer is \"Yes,of course. Everybody does! \" You need friends when you play and when you work. If you have friends, you will feel happy. If you have no friends. you will feel lonely  . \nDo you know how to make friends? There is only one good way--You make friends by being friendly. \nA friendly person is interested in other people. He is always helpful If you want to make friends with a new classmate, you can talk with him, tell him about the other classmates in your class and try your best to be helpful to him.",
+      "question": "If we want to make friends, we should   _  .",
+      "options": [
+        "be politely to them",
+        "be friendly to them.",
+        "be afraid of them",
+        "when we talk with them."
+      ],
+      "ground_truth": "B",
+      "prediction": "B",
+      "is_correct": true
+    },
+    {
+      "passage": "Do you need friends? I'm sure your answer is \"Yes,of course. Everybody does! \" You need friends when you play and when you work. If you have friends, you will feel happy. If you have no friends. you will feel lonely  . \nDo you know how to make friends? There is only one good way--You make friends by being friendly. \nA friendly person is interested in other people. He is always helpful If you want to make friends with a new classmate, you can talk with him, tell him about the other classmates in your class and try your best to be helpful to him.",
+      "question": "A friendly person is   _   other people.",
+      "options": [
+        "interested in",
+        "worried about",
+        "surprised at",
+        "like them"
+      ],
+      "ground_truth": "A",
+      "prediction": "A",
+      "is_correct": true
+    },
+    {
+      "passage": "Do you need friends? I'm sure your answer is \"Yes,of course. Everybody does! \" You need friends when you play and when you work. If you have friends, you will feel happy. If you have no friends. you will feel lonely  . \nDo you know how to make friends? There is only one good way--You make friends by being friendly. \nA friendly person is interested in other people. He is always helpful If you want to make friends with a new classmate, you can talk with him, tell him about the other classmates in your class and try your best to be helpful to him.",
+      "question": "If we want to make friends with a new classmate,   _  .",
+      "options": [
+        "we can talk with them",
+        "we must try to help him",
+        "we can tell him about the other classmates in our class",
+        "A, B and C"
+      ],
+      "ground_truth": "D",
+      "prediction": "B",
+      "is_correct": false
+    },
+    {
+      "passage": "Do you need friends? I'm sure your answer is \"Yes,of course. Everybody does! \" You need friends when you play and when you work. If you have friends, you will feel happy. If you have no friends. you will feel lonely  . \nDo you know how to make friends? There is only one good way--You make friends by being friendly. \nA friendly person is interested in other people. He is always helpful If you want to make friends with a new classmate, you can talk with him, tell him about the other classmates in your class and try your best to be helpful to him.",
+      "question": "Which of the following is true?",
+      "options": [
+        "No one needs friends.",
+        "Everyone needs friends.",
+        "Only classmates need friends.",
+        "Someone needs friends."
+      ],
+      "ground_truth": "B",
+      "prediction": "B",
+      "is_correct": true
+    },
+    {
+      "passage": "People who cannot tell all colors apart are said to be color-blind. Most color-blind people can see yellows and blues, but confuse reds with green. It is very rare for a person to be blind to all colors, but they may see everything in shades of black, white and gray.\nIt is interesting to point out that many color-blind people don't even realize that they are color-blind, they don't know that the colors they are seeing and naming are not the actual colors that people with normal vision can see. This can be dangerous when a color-blind person confuses the red and green of a traffic light.\nColor blindness is thought to be inherited and although doctors have tested color blindness, there is no cure to treatment for it.",
+      "question": "There are four cards here, and each has two colors. Which card's colors do you think a color-blind person can tell correctly?",
+      "options": [
+        "Red, Green",
+        "Green, Yellow",
+        "Red, Brown",
+        "Brown, Yellow"
+      ],
+      "ground_truth": "D",
+      "prediction": "B",
+      "is_correct": false
+    },
+    {
+      "passage": "People who cannot tell all colors apart are said to be color-blind. Most color-blind people can see yellows and blues, but confuse reds with green. It is very rare for a person to be blind to all colors, but they may see everything in shades of black, white and gray.\nIt is interesting to point out that many color-blind people don't even realize that they are color-blind, they don't know that the colors they are seeing and naming are not the actual colors that people with normal vision can see. This can be dangerous when a color-blind person confuses the red and green of a traffic light.\nColor blindness is thought to be inherited and although doctors have tested color blindness, there is no cure to treatment for it.",
+      "question": "A color-blind person  _  .",
+      "options": [
+        "always knows how color-blind he is",
+        "often gives the wrong name of colors",
+        "see everything as the same color",
+        "can hardly see something of strong colors"
+      ],
+      "ground_truth": "B",
+      "prediction": "C",
+      "is_correct": false
+    },
+    {
+      "passage": "People who cannot tell all colors apart are said to be color-blind. Most color-blind people can see yellows and blues, but confuse reds with green. It is very rare for a person to be blind to all colors, but they may see everything in shades of black, white and gray.\nIt is interesting to point out that many color-blind people don't even realize that they are color-blind, they don't know that the colors they are seeing and naming are not the actual colors that people with normal vision can see. This can be dangerous when a color-blind person confuses the red and green of a traffic light.\nColor blindness is thought to be inherited and although doctors have tested color blindness, there is no cure to treatment for it.",
+      "question": "It's especially dangerous for a color-blind person to cross a street when  _",
+      "options": [
+        "it is crowded",
+        "it is a dark night",
+        "there are no traffic lights at the cross of the streets",
+        "the traffic light turns red"
+      ],
+      "ground_truth": "D",
+      "prediction": "C",
+      "is_correct": false
+    },
+    {
+      "passage": "People who cannot tell all colors apart are said to be color-blind. Most color-blind people can see yellows and blues, but confuse reds with green. It is very rare for a person to be blind to all colors, but they may see everything in shades of black, white and gray.\nIt is interesting to point out that many color-blind people don't even realize that they are color-blind, they don't know that the colors they are seeing and naming are not the actual colors that people with normal vision can see. This can be dangerous when a color-blind person confuses the red and green of a traffic light.\nColor blindness is thought to be inherited and although doctors have tested color blindness, there is no cure to treatment for it.",
+      "question": "A person who is color-blind is believed to have something to do with  _  .",
+      "options": [
+        "his old age",
+        "his poor eyesight",
+        "his parents or grandparents",
+        "his living condition"
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "is_correct": true
+    },
+    {
+      "passage": "People who cannot tell all colors apart are said to be color-blind. Most color-blind people can see yellows and blues, but confuse reds with green. It is very rare for a person to be blind to all colors, but they may see everything in shades of black, white and gray.\nIt is interesting to point out that many color-blind people don't even realize that they are color-blind, they don't know that the colors they are seeing and naming are not the actual colors that people with normal vision can see. This can be dangerous when a color-blind person confuses the red and green of a traffic light.\nColor blindness is thought to be inherited and although doctors have tested color blindness, there is no cure to treatment for it.",
+      "question": "Up to now, doctors  _  .",
+      "options": [
+        "have found a way to prevent a person from getting color-blind",
+        "have found a way to free a person from his color blindness",
+        "have been able to tell whether a person is color-blind or not",
+        "have made it quite clear the cause of color blindness"
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "is_correct": true
+    },
+    {
+      "passage": "Once there was a poor farmer and his farm belonged to  a rich man. One day he brought a basket of apples to the rich man's house. On the doorsteps, he met two monkeys dressed like children. They jumped onto the basket to eat the apples and threw some on the ground. The farmer politely took off his hat and asked the monkeys to get off. They obeyed  and the farmer went into the house. He asked to see the rich man. A servant took him to the room where the rich man was sitting.\n\"I have brought you the basket of apples you asked for,\" he said.\n\"But why have you brought a half-empty basket?\" the rich man asked.\n\"I met your children outside, and they stole  some of the apples.\"",
+      "question": "Why did the farmer bring apples to the rich man? Because",
+      "options": [
+        "his farm belonged to the rich man",
+        "he liked the rich man",
+        "he was poor",
+        "the rich man's children liked apples"
+      ],
+      "ground_truth": "C",
+      "prediction": "A",
+      "is_correct": false
+    },
+    {
+      "passage": "Once there was a poor farmer and his farm belonged to  a rich man. One day he brought a basket of apples to the rich man's house. On the doorsteps, he met two monkeys dressed like children. They jumped onto the basket to eat the apples and threw some on the ground. The farmer politely took off his hat and asked the monkeys to get off. They obeyed  and the farmer went into the house. He asked to see the rich man. A servant took him to the room where the rich man was sitting.\n\"I have brought you the basket of apples you asked for,\" he said.\n\"But why have you brought a half-empty basket?\" the rich man asked.\n\"I met your children outside, and they stole  some of the apples.\"",
+      "question": "What did the monkeys do when the farmer was on the doorsteps?",
+      "options": [
+        "They jumped and jumped.",
+        "They played.",
+        "They ate some of the apples.",
+        "They ran away."
+      ],
+      "ground_truth": "D",
+      "prediction": "C",
+      "is_correct": false
+    },
+    {
+      "passage": "Once there was a poor farmer and his farm belonged to  a rich man. One day he brought a basket of apples to the rich man's house. On the doorsteps, he met two monkeys dressed like children. They jumped onto the basket to eat the apples and threw some on the ground. The farmer politely took off his hat and asked the monkeys to get off. They obeyed  and the farmer went into the house. He asked to see the rich man. A servant took him to the room where the rich man was sitting.\n\"I have brought you the basket of apples you asked for,\" he said.\n\"But why have you brought a half-empty basket?\" the rich man asked.\n\"I met your children outside, and they stole  some of the apples.\"",
+      "question": "The monkeys left the basket because",
+      "options": [
+        "they had thrown apples on the ground",
+        "the farmer had politely asked them to get off",
+        "they were afraid of the hat",
+        "the farmer was angry wit h them"
+      ],
+      "ground_truth": "D",
+      "prediction": "B",
+      "is_correct": false
+    },
+    {
+      "passage": "Once there was a poor farmer and his farm belonged to  a rich man. One day he brought a basket of apples to the rich man's house. On the doorsteps, he met two monkeys dressed like children. They jumped onto the basket to eat the apples and threw some on the ground. The farmer politely took off his hat and asked the monkeys to get off. They obeyed  and the farmer went into the house. He asked to see the rich man. A servant took him to the room where the rich man was sitting.\n\"I have brought you the basket of apples you asked for,\" he said.\n\"But why have you brought a half-empty basket?\" the rich man asked.\n\"I met your children outside, and they stole  some of the apples.\"",
+      "question": "How did the rich man feel when he saw the basket?  He felt_.",
+      "options": [
+        "pleased",
+        "unhappy",
+        "excited",
+        "moved"
+      ],
+      "ground_truth": "B",
+      "prediction": "A",
+      "is_correct": false
+    },
+    {
+      "passage": "Annealing is a way of making metal softer by heating it and then letting it cool very slowly. If metal is heated and then cooled very quickly , for example by dipping it in water , it will be very hard but also very brittle ---that is , It will break easily. Metal that has been annealed is soft but does not break as easily . It is possible to make metal as hard or as soft as is wished, by annealing it. The metal is heated, and allowed to cool slowly , for a certain length of time. The longer the heated metal takes to cool slowly , the softer it becomes . Annealing can also be used on other materials, such as glass.",
+      "question": "Annealing can make metal   _  .",
+      "options": [
+        "hard and tough",
+        "hard but brittle",
+        "soft but tough",
+        "soft and brittle"
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "is_correct": true
+    },
+    {
+      "passage": "Annealing is a way of making metal softer by heating it and then letting it cool very slowly. If metal is heated and then cooled very quickly , for example by dipping it in water , it will be very hard but also very brittle ---that is , It will break easily. Metal that has been annealed is soft but does not break as easily . It is possible to make metal as hard or as soft as is wished, by annealing it. The metal is heated, and allowed to cool slowly , for a certain length of time. The longer the heated metal takes to cool slowly , the softer it becomes . Annealing can also be used on other materials, such as glass.",
+      "question": "Why do people put hot metal in water ?   _",
+      "options": [
+        "To make it hard",
+        "To make it soft",
+        "To make it cool",
+        "To make it brittle"
+      ],
+      "ground_truth": "A",
+      "prediction": "B",
+      "is_correct": false
+    },
+    {
+      "passage": "Annealing is a way of making metal softer by heating it and then letting it cool very slowly. If metal is heated and then cooled very quickly , for example by dipping it in water , it will be very hard but also very brittle ---that is , It will break easily. Metal that has been annealed is soft but does not break as easily . It is possible to make metal as hard or as soft as is wished, by annealing it. The metal is heated, and allowed to cool slowly , for a certain length of time. The longer the heated metal takes to cool slowly , the softer it becomes . Annealing can also be used on other materials, such as glass.",
+      "question": "As suggested by the text , how can glass be made less brittle ?  _",
+      "options": [
+        "It can be heated and then cooled quickly",
+        "It can be cooled and then heated slowly",
+        "It can be heated and then cooled slowly",
+        "It can be cooled and then heated quickly"
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "is_correct": true
+    },
+    {
+      "passage": "A fad diet is a diet that suddenly becomes popular, usually because it promises people that they will lose a lot of weight overnight. Although dieters may really show weight loss from a fad diet, they will almost certainly get back the weight if their usual eating habits   remain unchanged. Moreover, fad diets continuously call for special products of questionable value or for \"health foods\" that may cost twice as much as supermarket  foods. Worse yet, certain fad diets don't include nutrients good for health. People have been known to become very ill as a result of following medically unhealthy diets.\nThe worse fact of fad diets, though, is that they keep people who are over-weight or sick from receiving the medical care that they truly need.",
+      "question": "The word \"fad\" in the first sentence means   _  .",
+      "options": [
+        "new",
+        "wonderful",
+        "popular quickly",
+        "loved by people"
+      ],
+      "ground_truth": "A",
+      "prediction": "A",
+      "is_correct": true
+    },
+    {
+      "passage": "A fad diet is a diet that suddenly becomes popular, usually because it promises people that they will lose a lot of weight overnight. Although dieters may really show weight loss from a fad diet, they will almost certainly get back the weight if their usual eating habits   remain unchanged. Moreover, fad diets continuously call for special products of questionable value or for \"health foods\" that may cost twice as much as supermarket  foods. Worse yet, certain fad diets don't include nutrients good for health. People have been known to become very ill as a result of following medically unhealthy diets.\nThe worse fact of fad diets, though, is that they keep people who are over-weight or sick from receiving the medical care that they truly need.",
+      "question": "From the text we know that   _  .",
+      "options": [
+        "people refuse to accept fad diets",
+        "fad diets can help people to lose weight",
+        "a man can lose weight after eating a fad diet",
+        "fad diets are now welcomed by people"
+      ],
+      "ground_truth": "B",
+      "prediction": "A",
+      "is_correct": false
+    },
+    {
+      "passage": "A fad diet is a diet that suddenly becomes popular, usually because it promises people that they will lose a lot of weight overnight. Although dieters may really show weight loss from a fad diet, they will almost certainly get back the weight if their usual eating habits   remain unchanged. Moreover, fad diets continuously call for special products of questionable value or for \"health foods\" that may cost twice as much as supermarket  foods. Worse yet, certain fad diets don't include nutrients good for health. People have been known to become very ill as a result of following medically unhealthy diets.\nThe worse fact of fad diets, though, is that they keep people who are over-weight or sick from receiving the medical care that they truly need.",
+      "question": "In the writer's opinion, fad diets  _  .",
+      "options": [
+        "are very helpful",
+        "are not healthy diet",
+        "won't cost much",
+        "include lots of nutrients"
+      ],
+      "ground_truth": "B",
+      "prediction": "A",
+      "is_correct": false
+    },
+    {
+      "passage": "The following notice is posted in the bus station.\nTime Table:\n*Buses leave the Railway Station, New York City, from7:00 a.m. and every half-hour thereafter, until 11:30 p.m. (7 days a week)\n*Buses leave Brennan Station 20 minutes before and after every hour from 6:20 a.m. to 11:40 p.m. (7 days a week)\n*Evening rush hours (5:00 p.m. to 7:00 p.m.); Buses leave the Railway Station, New York City every 15 minutes.(Monday--Friday)\n*Holidays Buses leave every hour on the hour, each direction.(Trip time:30minutes each way)\n*All tickets must be bought at Window 12, the Railway Station, New York City, or at the Brennan Station Window BEFORE boarding buses.",
+      "question": "If you want to take a bus in the evening rush hour, you should take the   _                         in the Railway Station, New York City on Monday.",
+      "options": [
+        "6:20 p.m.",
+        "5:45 p.m.",
+        "8:00 p.m.",
+        "7:15 p.m."
+      ],
+      "ground_truth": "B",
+      "prediction": "B",
+      "is_correct": true
+    },
+    {
+      "passage": "The following notice is posted in the bus station.\nTime Table:\n*Buses leave the Railway Station, New York City, from7:00 a.m. and every half-hour thereafter, until 11:30 p.m. (7 days a week)\n*Buses leave Brennan Station 20 minutes before and after every hour from 6:20 a.m. to 11:40 p.m. (7 days a week)\n*Evening rush hours (5:00 p.m. to 7:00 p.m.); Buses leave the Railway Station, New York City every 15 minutes.(Monday--Friday)\n*Holidays Buses leave every hour on the hour, each direction.(Trip time:30minutes each way)\n*All tickets must be bought at Window 12, the Railway Station, New York City, or at the Brennan Station Window BEFORE boarding buses.",
+      "question": "You'll go back home from work in Brennan. Which of the following bus will you take?",
+      "options": [
+        "7:30 p.m.",
+        "6:00 a.m.",
+        "5:45 p.m.",
+        "6:20 p.m."
+      ],
+      "ground_truth": "D",
+      "prediction": "B",
+      "is_correct": false
+    },
+    {
+      "passage": "The following notice is posted in the bus station.\nTime Table:\n*Buses leave the Railway Station, New York City, from7:00 a.m. and every half-hour thereafter, until 11:30 p.m. (7 days a week)\n*Buses leave Brennan Station 20 minutes before and after every hour from 6:20 a.m. to 11:40 p.m. (7 days a week)\n*Evening rush hours (5:00 p.m. to 7:00 p.m.); Buses leave the Railway Station, New York City every 15 minutes.(Monday--Friday)\n*Holidays Buses leave every hour on the hour, each direction.(Trip time:30minutes each way)\n*All tickets must be bought at Window 12, the Railway Station, New York City, or at the Brennan Station Window BEFORE boarding buses.",
+      "question": "Where should passengers buy their tickets?",
+      "options": [
+        "From the bus driver.",
+        "On the bus after getting on it.",
+        "From the conductor.",
+        "At the station before boarding."
+      ],
+      "ground_truth": "D",
+      "prediction": "B",
+      "is_correct": false
+    },
+    {
+      "passage": "Have you ever heard your own voice? \"Of course,\" you say.\nHas anyone else ever heard your voice? Again you say, \"Of course.\"\nBut that's not quite true. Nobody else has ever heard your voice-the way you hear it. When you talk, you set up sound waves. The air outside your head carries the sound waves to your outer ears. But, of course, the sound of your voice begins inside your head. The bones of your head pick up the sound waves, too. They carry the sound waves straight to your inner ears. You get the sound from the outside and the inside too. Other people get just the sound waves from the outside. That is why they don't hear your voice the way you do.",
+      "question": "You   _  hear your voice the same way others hear it.",
+      "options": [
+        "can't",
+        "seldom",
+        "sometimes",
+        "always"
+      ],
+      "ground_truth": "A",
+      "prediction": "C",
+      "is_correct": false
+    },
+    {
+      "passage": "Have you ever heard your own voice? \"Of course,\" you say.\nHas anyone else ever heard your voice? Again you say, \"Of course.\"\nBut that's not quite true. Nobody else has ever heard your voice-the way you hear it. When you talk, you set up sound waves. The air outside your head carries the sound waves to your outer ears. But, of course, the sound of your voice begins inside your head. The bones of your head pick up the sound waves, too. They carry the sound waves straight to your inner ears. You get the sound from the outside and the inside too. Other people get just the sound waves from the outside. That is why they don't hear your voice the way you do.",
+      "question": "The passage is mainly about  _  .",
+      "options": [
+        "waves in the air",
+        "the way you hear your own voice",
+        "voice spreading far and wide",
+        "the different way people hear their voices"
+      ],
+      "ground_truth": "B",
+      "prediction": "B",
+      "is_correct": true
+    },
+    {
+      "passage": "The horsepower was first used two hundred years ago. James Watt had made the world's first widely used steam engine. He had no way of telling people exactly how powerful it was, for at that time there were no units for measuring power.\n    Watt decided to find out how much work one strong horse could do in one minute. He called that init one horsepower. With this unit he could measure the work his steam engine could do.\n    He discovered that a horse could lift a 3,300-pound weight 10 feet into the air in one minute. His engine could lift a 3,300 pound weight 100 feet in one minute.\n    Because his engine did ten times as much work as the horse, Watt called it a ten-horsepower engine.",
+      "question": "Watt made the world's first   _  .",
+      "options": [
+        "train",
+        "engine",
+        "steam engine",
+        "bus"
+      ],
+      "ground_truth": "C",
+      "prediction": "B",
+      "is_correct": false
+    },
+    {
+      "passage": "The horsepower was first used two hundred years ago. James Watt had made the world's first widely used steam engine. He had no way of telling people exactly how powerful it was, for at that time there were no units for measuring power.\n    Watt decided to find out how much work one strong horse could do in one minute. He called that init one horsepower. With this unit he could measure the work his steam engine could do.\n    He discovered that a horse could lift a 3,300-pound weight 10 feet into the air in one minute. His engine could lift a 3,300 pound weight 100 feet in one minute.\n    Because his engine did ten times as much work as the horse, Watt called it a ten-horsepower engine.",
+      "question": "Watt wanted to find a way   _  .",
+      "options": [
+        "to lift a 3,300-pound weight",
+        "to show how useful his steam engine was",
+        "to tell people exactly how powerful his steam engine was",
+        "to measure the weight of his steam engine"
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "is_correct": true
+    },
+    {
+      "passage": "The horsepower was first used two hundred years ago. James Watt had made the world's first widely used steam engine. He had no way of telling people exactly how powerful it was, for at that time there were no units for measuring power.\n    Watt decided to find out how much work one strong horse could do in one minute. He called that init one horsepower. With this unit he could measure the work his steam engine could do.\n    He discovered that a horse could lift a 3,300-pound weight 10 feet into the air in one minute. His engine could lift a 3,300 pound weight 100 feet in one minute.\n    Because his engine did ten times as much work as the horse, Watt called it a ten-horsepower engine.",
+      "question": "What does one horsepower mean? It means   _  .",
+      "options": [
+        "one horse's power",
+        "what one strong horse can do in one minute",
+        "what one horse can do in a day",
+        "what work one horse can do as much as possible"
+      ],
+      "ground_truth": "B",
+      "prediction": "A",
+      "is_correct": false
+    },
+    {
+      "passage": "The horsepower was first used two hundred years ago. James Watt had made the world's first widely used steam engine. He had no way of telling people exactly how powerful it was, for at that time there were no units for measuring power.\n    Watt decided to find out how much work one strong horse could do in one minute. He called that init one horsepower. With this unit he could measure the work his steam engine could do.\n    He discovered that a horse could lift a 3,300-pound weight 10 feet into the air in one minute. His engine could lift a 3,300 pound weight 100 feet in one minute.\n    Because his engine did ten times as much work as the horse, Watt called it a ten-horsepower engine.",
+      "question": "Which is not true?   _  .",
+      "options": [
+        "Watt decided to find out how much work one strong horse could do in one minute",
+        "Watt decided to make the world's first widely used horse engine",
+        "He wanted to find a way to tell people exactly how powerful his engine was",
+        "He wanted to measure the work his engine could do"
+      ],
+      "ground_truth": "B",
+      "prediction": "C",
+      "is_correct": false
+    },
+    {
+      "passage": "The horsepower was first used two hundred years ago. James Watt had made the world's first widely used steam engine. He had no way of telling people exactly how powerful it was, for at that time there were no units for measuring power.\n    Watt decided to find out how much work one strong horse could do in one minute. He called that init one horsepower. With this unit he could measure the work his steam engine could do.\n    He discovered that a horse could lift a 3,300-pound weight 10 feet into the air in one minute. His engine could lift a 3,300 pound weight 100 feet in one minute.\n    Because his engine did ten times as much work as the horse, Watt called it a ten-horsepower engine.",
+      "question": "The best headline for the article is   _  .",
+      "options": [
+        "Horsepower",
+        "Watt's steam engine",
+        "A ten-horsepower engine",
+        "The beginning of horsepower"
+      ],
+      "ground_truth": "D",
+      "prediction": "A",
+      "is_correct": false
+    },
+    {
+      "passage": "Bet Winner\nMILLBURN, New Jersey-- An 11-year-old boy, he gave up television for a year in a bet with his mother, says he will use some of the money to buy himself an astronaut's suit. The bet ended at 9:01 on Monday morning, but Benjamin waited until his mother, Roslyn, handed him five 100-dollar bills in front of a gathering of newspapermen in the afternoon before switching on the TV. During the past year, he has filled his time reading and his grades have improved from ''satisfactory\" to ''very good.\"\nCHINA DAILY, Wednesday, March 9, 2011  ( 94 words )",
+      "question": "Who lost a bet to whom?",
+      "options": [
+        "The boy's mother to his father",
+        "Benjamin's father to Roslyn",
+        "Benjamin to his mother",
+        "Roslyn to Benjamin"
+      ],
+      "ground_truth": "D",
+      "prediction": "C",
+      "is_correct": false
+    },
+    {
+      "passage": "Bet Winner\nMILLBURN, New Jersey-- An 11-year-old boy, he gave up television for a year in a bet with his mother, says he will use some of the money to buy himself an astronaut's suit. The bet ended at 9:01 on Monday morning, but Benjamin waited until his mother, Roslyn, handed him five 100-dollar bills in front of a gathering of newspapermen in the afternoon before switching on the TV. During the past year, he has filled his time reading and his grades have improved from ''satisfactory\" to ''very good.\"\nCHINA DAILY, Wednesday, March 9, 2011  ( 94 words )",
+      "question": "For how long had the boy kept himself from turning on the TV?",
+      "options": [
+        "From Monday morning till afternoon",
+        "For one year and several hours",
+        "For one year and a day",
+        "For one year"
+      ],
+      "ground_truth": "D",
+      "prediction": "B",
+      "is_correct": false
+    },
+    {
+      "passage": "Bet Winner\nMILLBURN, New Jersey-- An 11-year-old boy, he gave up television for a year in a bet with his mother, says he will use some of the money to buy himself an astronaut's suit. The bet ended at 9:01 on Monday morning, but Benjamin waited until his mother, Roslyn, handed him five 100-dollar bills in front of a gathering of newspapermen in the afternoon before switching on the TV. During the past year, he has filled his time reading and his grades have improved from ''satisfactory\" to ''very good.\"\nCHINA DAILY, Wednesday, March 9, 2011  ( 94 words )",
+      "question": "Why did the mother hand the bills to the boy?",
+      "options": [
+        "Because his grades had improved",
+        "Because he had won some money",
+        "Because he wanted to buy an astronaut's suit",
+        "Because she had given him her promise"
+      ],
+      "ground_truth": "D",
+      "prediction": "B",
+      "is_correct": false
+    },
+    {
+      "passage": "Bet Winner\nMILLBURN, New Jersey-- An 11-year-old boy, he gave up television for a year in a bet with his mother, says he will use some of the money to buy himself an astronaut's suit. The bet ended at 9:01 on Monday morning, but Benjamin waited until his mother, Roslyn, handed him five 100-dollar bills in front of a gathering of newspapermen in the afternoon before switching on the TV. During the past year, he has filled his time reading and his grades have improved from ''satisfactory\" to ''very good.\"\nCHINA DAILY, Wednesday, March 9, 2011  ( 94 words )",
+      "question": "Why do you think the newspapermen came?",
+      "options": [
+        "They came to judge who should be the winner",
+        "They came to congratulate the winner",
+        "They came for the money",
+        "They came for the news"
+      ],
+      "ground_truth": "D",
+      "prediction": "A",
+      "is_correct": false
+    },
+    {
+      "passage": "Bet Winner\nMILLBURN, New Jersey-- An 11-year-old boy, he gave up television for a year in a bet with his mother, says he will use some of the money to buy himself an astronaut's suit. The bet ended at 9:01 on Monday morning, but Benjamin waited until his mother, Roslyn, handed him five 100-dollar bills in front of a gathering of newspapermen in the afternoon before switching on the TV. During the past year, he has filled his time reading and his grades have improved from ''satisfactory\" to ''very good.\"\nCHINA DAILY, Wednesday, March 9, 2011  ( 94 words )",
+      "question": "The mother obviously believed that",
+      "options": [
+        "children shouldn't watch TV too much",
+        "children should have their own money",
+        "children should be regarded as their parents' equals",
+        "children's interest in space should be encouraged"
+      ],
+      "ground_truth": "A",
+      "prediction": "B",
+      "is_correct": false
+    },
+    {
+      "passage": "One day an ant was drinking at a small stream and fell in. She made desperate efforts to reach the side, but made no progress at all. The poor ant almost exhausted was still bravely doing her best when a dove saw her. Moved with pity, the bird threw her a blade of grass, which supported her like a raft, and thus the ant reached the bank again. While she was resting and drying herself in the grass, she heard a man come near. He was walking along barefooted with a gun in his hand. As soon as he saw the dove, he wished to kill it. He would certainly have done so, but the ant bit him in the foot just as he raised his gun to fire. He stopped to see what had bit him, and the dove immediately flew away. It was an animal much weaker and smaller than herself that had saved her life.",
+      "question": "The ant could not reach the side though   _  .",
+      "options": [
+        "she could smell well",
+        "she asked the dove to save her",
+        "she tried very hard",
+        "she cried for help"
+      ],
+      "ground_truth": "C",
+      "prediction": "B",
+      "is_correct": false
+    },
+    {
+      "passage": "One day an ant was drinking at a small stream and fell in. She made desperate efforts to reach the side, but made no progress at all. The poor ant almost exhausted was still bravely doing her best when a dove saw her. Moved with pity, the bird threw her a blade of grass, which supported her like a raft, and thus the ant reached the bank again. While she was resting and drying herself in the grass, she heard a man come near. He was walking along barefooted with a gun in his hand. As soon as he saw the dove, he wished to kill it. He would certainly have done so, but the ant bit him in the foot just as he raised his gun to fire. He stopped to see what had bit him, and the dove immediately flew away. It was an animal much weaker and smaller than herself that had saved her life.",
+      "question": "The dove saved the ant because   _  .",
+      "options": [
+        "she was the ant's friend",
+        "she took pity on the poor ant",
+        "the ant was almost exhausted",
+        "the ant had been struggled in the water for a long time"
+      ],
+      "ground_truth": "B",
+      "prediction": "B",
+      "is_correct": true
+    },
+    {
+      "passage": "One day an ant was drinking at a small stream and fell in. She made desperate efforts to reach the side, but made no progress at all. The poor ant almost exhausted was still bravely doing her best when a dove saw her. Moved with pity, the bird threw her a blade of grass, which supported her like a raft, and thus the ant reached the bank again. While she was resting and drying herself in the grass, she heard a man come near. He was walking along barefooted with a gun in his hand. As soon as he saw the dove, he wished to kill it. He would certainly have done so, but the ant bit him in the foot just as he raised his gun to fire. He stopped to see what had bit him, and the dove immediately flew away. It was an animal much weaker and smaller than herself that had saved her life.",
+      "question": "The ant succeeded in getting on the bank with the help of   _  .",
+      "options": [
+        "a leaf",
+        "a piece of wood",
+        "a blade of grass",
+        "a raft"
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "is_correct": true
+    },
+    {
+      "passage": "One day an ant was drinking at a small stream and fell in. She made desperate efforts to reach the side, but made no progress at all. The poor ant almost exhausted was still bravely doing her best when a dove saw her. Moved with pity, the bird threw her a blade of grass, which supported her like a raft, and thus the ant reached the bank again. While she was resting and drying herself in the grass, she heard a man come near. He was walking along barefooted with a gun in his hand. As soon as he saw the dove, he wished to kill it. He would certainly have done so, but the ant bit him in the foot just as he raised his gun to fire. He stopped to see what had bit him, and the dove immediately flew away. It was an animal much weaker and smaller than herself that had saved her life.",
+      "question": "Just as the man shot at the dove,   _  .",
+      "options": [
+        "the dove immediately flew away",
+        "the dove hid himself in the grass",
+        "the ant told the dove to leave at once",
+        "he felt something biting him in the foot"
+      ],
+      "ground_truth": "D",
+      "prediction": "B",
+      "is_correct": false
+    },
+    {
+      "passage": "One day an ant was drinking at a small stream and fell in. She made desperate efforts to reach the side, but made no progress at all. The poor ant almost exhausted was still bravely doing her best when a dove saw her. Moved with pity, the bird threw her a blade of grass, which supported her like a raft, and thus the ant reached the bank again. While she was resting and drying herself in the grass, she heard a man come near. He was walking along barefooted with a gun in his hand. As soon as he saw the dove, he wished to kill it. He would certainly have done so, but the ant bit him in the foot just as he raised his gun to fire. He stopped to see what had bit him, and the dove immediately flew away. It was an animal much weaker and smaller than herself that had saved her life.",
+      "question": "In writing the story, the writer wants to show   _  .",
+      "options": [
+        "how kind the dove was",
+        "how clever the ant was",
+        "how the ant and the dove helped each other",
+        "we often need help from others, therefore we should help others as much as we can"
+      ],
+      "ground_truth": "D",
+      "prediction": "C",
+      "is_correct": false
+    },
+    {
+      "passage": "London, the capital of England, is political, economic  and commercial  centre. It stands on the Thames, extending for nearly thirty miles from north to south and for nearly thirty miles from east to west.\nLondon is divided into many administrative  units. Greater London, the largest unit, cover 1,605 square miles. The heart of this unit is the City of London. It is surrounded by a ring of 12 boroughs  called Inner London or Central London, covering 303 square miles, and itself, is again surrounded by a greater ring of 20 boroughs called Outer London with an area of 1,279 square miles. Thus, Greater London is made up of the City and 32 boroughs.",
+      "question": "According to the article, London   _  .",
+      "options": [
+        "is only an economic centre",
+        "exists on a river",
+        "covers more than thirty miles from west to east",
+        "is to the east of England"
+      ],
+      "ground_truth": "B",
+      "prediction": "A",
+      "is_correct": false
+    },
+    {
+      "passage": "London, the capital of England, is political, economic  and commercial  centre. It stands on the Thames, extending for nearly thirty miles from north to south and for nearly thirty miles from east to west.\nLondon is divided into many administrative  units. Greater London, the largest unit, cover 1,605 square miles. The heart of this unit is the City of London. It is surrounded by a ring of 12 boroughs  called Inner London or Central London, covering 303 square miles, and itself, is again surrounded by a greater ring of 20 boroughs called Outer London with an area of 1,279 square miles. Thus, Greater London is made up of the City and 32 boroughs.",
+      "question": "The City of London covers   _  aquare miles.",
+      "options": [
+        "1,605",
+        "303",
+        "23",
+        "900"
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "is_correct": true
+    },
+    {
+      "passage": "London, the capital of England, is political, economic  and commercial  centre. It stands on the Thames, extending for nearly thirty miles from north to south and for nearly thirty miles from east to west.\nLondon is divided into many administrative  units. Greater London, the largest unit, cover 1,605 square miles. The heart of this unit is the City of London. It is surrounded by a ring of 12 boroughs  called Inner London or Central London, covering 303 square miles, and itself, is again surrounded by a greater ring of 20 boroughs called Outer London with an area of 1,279 square miles. Thus, Greater London is made up of the City and 32 boroughs.",
+      "question": "From this article, we can see that London   _  .",
+      "options": [
+        "is made up of the City, the Central London and Outer London.",
+        "is made up of Inner London and Outer London",
+        "includes the City, 32 boroughs and some other units.",
+        "is smaller than Greater London in area."
+      ],
+      "ground_truth": "C",
+      "prediction": "A",
+      "is_correct": false
+    },
+    {
+      "passage": "London, the capital of England, is political, economic  and commercial  centre. It stands on the Thames, extending for nearly thirty miles from north to south and for nearly thirty miles from east to west.\nLondon is divided into many administrative  units. Greater London, the largest unit, cover 1,605 square miles. The heart of this unit is the City of London. It is surrounded by a ring of 12 boroughs  called Inner London or Central London, covering 303 square miles, and itself, is again surrounded by a greater ring of 20 boroughs called Outer London with an area of 1,279 square miles. Thus, Greater London is made up of the City and 32 boroughs.",
+      "question": "Which is the best title of the article?",
+      "options": [
+        "Greater London",
+        "The Improtance of London",
+        "The Boroughs of London",
+        "London"
+      ],
+      "ground_truth": "D",
+      "prediction": "A",
+      "is_correct": false
+    },
+    {
+      "passage": "Scientists would like to place a huge mirror in space above the earth. It might be sixty miles wide. It would be used to catch the rays   of the sun. It would direct the sun's rays upon the earth as a child might do to make sunlight dance on the wall with a hand mirror.\nWhy do they want to do this? The sun's rays could be helpful in many ways. They could light up cities by night. The warm rays could stop frosts   which might come at night and hurt fruit crops. They could melt   dangerous icebergs in the ocean. Perhaps they could change cloud movements and bring rain where it is needed.",
+      "question": "The huge mirror would   _  .",
+      "options": [
+        "stand 60 miles in height",
+        "be 60 miles from side to side",
+        "cover 60 miles of the earth",
+        "be 60 miles above the earth"
+      ],
+      "ground_truth": "B",
+      "prediction": "A",
+      "is_correct": false
+    },
+    {
+      "passage": "Scientists would like to place a huge mirror in space above the earth. It might be sixty miles wide. It would be used to catch the rays   of the sun. It would direct the sun's rays upon the earth as a child might do to make sunlight dance on the wall with a hand mirror.\nWhy do they want to do this? The sun's rays could be helpful in many ways. They could light up cities by night. The warm rays could stop frosts   which might come at night and hurt fruit crops. They could melt   dangerous icebergs in the ocean. Perhaps they could change cloud movements and bring rain where it is needed.",
+      "question": "The mirror would be used to   _  .",
+      "options": [
+        "reflect   sunlight",
+        "absorb   sunlight",
+        "see what the earth looks like",
+        "see how clouds move"
+      ],
+      "ground_truth": "A",
+      "prediction": "A",
+      "is_correct": true
+    },
+    {
+      "passage": "Scientists would like to place a huge mirror in space above the earth. It might be sixty miles wide. It would be used to catch the rays   of the sun. It would direct the sun's rays upon the earth as a child might do to make sunlight dance on the wall with a hand mirror.\nWhy do they want to do this? The sun's rays could be helpful in many ways. They could light up cities by night. The warm rays could stop frosts   which might come at night and hurt fruit crops. They could melt   dangerous icebergs in the ocean. Perhaps they could change cloud movements and bring rain where it is needed.",
+      "question": "The strong light from the mirror could possibly   _  .",
+      "options": [
+        "hurt fruit crops",
+        "set fire to cities",
+        "bring longer daytime",
+        "shine through walls"
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "is_correct": true
+    },
+    {
+      "passage": "Scientists would like to place a huge mirror in space above the earth. It might be sixty miles wide. It would be used to catch the rays   of the sun. It would direct the sun's rays upon the earth as a child might do to make sunlight dance on the wall with a hand mirror.\nWhy do they want to do this? The sun's rays could be helpful in many ways. They could light up cities by night. The warm rays could stop frosts   which might come at night and hurt fruit crops. They could melt   dangerous icebergs in the ocean. Perhaps they could change cloud movements and bring rain where it is needed.",
+      "question": "The huge mirror is   _  .",
+      "options": [
+        "something in a story",
+        "already made",
+        "just an idea",
+        "to be made soon"
+      ],
+      "ground_truth": "C",
+      "prediction": "A",
+      "is_correct": false
+    },
+    {
+      "passage": "Once Lu Xun spoke to the young men about the study of foreign languages. He said: \" You must not give up studying foreign languages for even a day. To master a language, words and grammatical rules are not enough. You must do a lot of reading. Take a book and force yourself to read it. At the same time, turn to dictionaries and memorize grammatical rules. After reading a book, it's only natural that you won't understand it all. Never mind. Put it aside, and start another one. In a few months or half a year, go over the first book again; you are sure to understand much more than before ... Young people have good memories. If you memorize a few words every day and keep on reading all the time, in four or five years, you will certainly be able to read works in the foreign language.",
+      "question": "In order to master a foreign language, words and grammatical rules are   _",
+      "options": [
+        "the most important thing",
+        "necessary",
+        "all we should remember",
+        "almost enough"
+      ],
+      "ground_truth": "B",
+      "prediction": "A",
+      "is_correct": false
+    },
+    {
+      "passage": "Once Lu Xun spoke to the young men about the study of foreign languages. He said: \" You must not give up studying foreign languages for even a day. To master a language, words and grammatical rules are not enough. You must do a lot of reading. Take a book and force yourself to read it. At the same time, turn to dictionaries and memorize grammatical rules. After reading a book, it's only natural that you won't understand it all. Never mind. Put it aside, and start another one. In a few months or half a year, go over the first book again; you are sure to understand much more than before ... Young people have good memories. If you memorize a few words every day and keep on reading all the time, in four or five years, you will certainly be able to read works in the foreign language.",
+      "question": "If you can't understand it all when you read a book, you should   _",
+      "options": [
+        "start with its beginning again",
+        "look up the new words in your dictionary and recite them",
+        "start another one and go over the first one later",
+        "stop to learn the grammatical rules in the book"
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "is_correct": true
+    },
+    {
+      "passage": "Once Lu Xun spoke to the young men about the study of foreign languages. He said: \" You must not give up studying foreign languages for even a day. To master a language, words and grammatical rules are not enough. You must do a lot of reading. Take a book and force yourself to read it. At the same time, turn to dictionaries and memorize grammatical rules. After reading a book, it's only natural that you won't understand it all. Never mind. Put it aside, and start another one. In a few months or half a year, go over the first book again; you are sure to understand much more than before ... Young people have good memories. If you memorize a few words every day and keep on reading all the time, in four or five years, you will certainly be able to read works in the foreign language.",
+      "question": "What's Lu Xun's advice on how to learn foreign languages?",
+      "options": [
+        "Memorize as many new words as you can when you are young",
+        "Keep on reading all the time.",
+        "Force yourself to read a book until you can understand it all.",
+        "Never give up reading and try to remember new words in reading books."
+      ],
+      "ground_truth": "D",
+      "prediction": "B",
+      "is_correct": false
+    },
+    {
+      "passage": "Once Lu Xun spoke to the young men about the study of foreign languages. He said: \" You must not give up studying foreign languages for even a day. To master a language, words and grammatical rules are not enough. You must do a lot of reading. Take a book and force yourself to read it. At the same time, turn to dictionaries and memorize grammatical rules. After reading a book, it's only natural that you won't understand it all. Never mind. Put it aside, and start another one. In a few months or half a year, go over the first book again; you are sure to understand much more than before ... Young people have good memories. If you memorize a few words every day and keep on reading all the time, in four or five years, you will certainly be able to read works in the foreign language.",
+      "question": "This passage mainly tells us how to   _",
+      "options": [
+        "do our reading",
+        "turn to dictionaries",
+        "memorize new words",
+        "use grammatical rules"
+      ],
+      "ground_truth": "A",
+      "prediction": "A",
+      "is_correct": true
+    },
+    {
+      "passage": "Central Sports Centre. City Road.\nAll Stars vs Rockets, Saturday 8: 30 p.m. $12\nNortherners vs Tigers, Sunday noon $14\nBUSHWALKING  :\nMeet at Wanda Station, Saturday 9:00 a.m. sharp for 3-hour walk to Canary Mountains. $7, ph 341-5432 Meet at Westley Station, Sunday 9:00 a.m. sharp for a full day walk to Wombak Valley. $5, ph 341-8643. Bring your own lunch.\nFOOTBALL:\nSt Martins Sports Centre\nSt Martins vs Doonsberg, Saturday 2:00 p.m. $8\nEastside Central vs Light Hill, Sunday 2:00 p.m. $8\nNeill Park Recreation Centre\nNeill Park vs Robinson, Saturday 2:00 p.m. $11\nEssen vs Springwood, Sunday 2:00 p.m. $11\nLAWN BOWLS :\nTans Town B.C\nTans Town vs White Vale, Saturday 9:00 p.m. $10\nWake Hill B.C.\nWake Hill vs Colls, Saturday 2: 00 p.m. $9",
+      "question": "According to the passage, the most popular time for the sporting events may be   _  .",
+      "options": [
+        "Sat 8:30 pm",
+        "Sun noon",
+        "Sun 2:00 pm",
+        "Sat 2:00 pm"
+      ],
+      "ground_truth": "D",
+      "prediction": "C",
+      "is_correct": false
+    },
+    {
+      "passage": "Central Sports Centre. City Road.\nAll Stars vs Rockets, Saturday 8: 30 p.m. $12\nNortherners vs Tigers, Sunday noon $14\nBUSHWALKING  :\nMeet at Wanda Station, Saturday 9:00 a.m. sharp for 3-hour walk to Canary Mountains. $7, ph 341-5432 Meet at Westley Station, Sunday 9:00 a.m. sharp for a full day walk to Wombak Valley. $5, ph 341-8643. Bring your own lunch.\nFOOTBALL:\nSt Martins Sports Centre\nSt Martins vs Doonsberg, Saturday 2:00 p.m. $8\nEastside Central vs Light Hill, Sunday 2:00 p.m. $8\nNeill Park Recreation Centre\nNeill Park vs Robinson, Saturday 2:00 p.m. $11\nEssen vs Springwood, Sunday 2:00 p.m. $11\nLAWN BOWLS :\nTans Town B.C\nTans Town vs White Vale, Saturday 9:00 p.m. $10\nWake Hill B.C.\nWake Hill vs Colls, Saturday 2: 00 p.m. $9",
+      "question": "The purpose of the passage is to let people   _  .",
+      "options": [
+        "compare the prices of the matches",
+        "find the nearest place to watch a match",
+        "know the sport matches and come to watch them",
+        "spend their money on these matches wisely"
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "is_correct": true
+    },
+    {
+      "passage": "Central Sports Centre. City Road.\nAll Stars vs Rockets, Saturday 8: 30 p.m. $12\nNortherners vs Tigers, Sunday noon $14\nBUSHWALKING  :\nMeet at Wanda Station, Saturday 9:00 a.m. sharp for 3-hour walk to Canary Mountains. $7, ph 341-5432 Meet at Westley Station, Sunday 9:00 a.m. sharp for a full day walk to Wombak Valley. $5, ph 341-8643. Bring your own lunch.\nFOOTBALL:\nSt Martins Sports Centre\nSt Martins vs Doonsberg, Saturday 2:00 p.m. $8\nEastside Central vs Light Hill, Sunday 2:00 p.m. $8\nNeill Park Recreation Centre\nNeill Park vs Robinson, Saturday 2:00 p.m. $11\nEssen vs Springwood, Sunday 2:00 p.m. $11\nLAWN BOWLS :\nTans Town B.C\nTans Town vs White Vale, Saturday 9:00 p.m. $10\nWake Hill B.C.\nWake Hill vs Colls, Saturday 2: 00 p.m. $9",
+      "question": "You may find the passage most probably in a   _  .",
+      "options": [
+        "handbook",
+        "newspaper about match reviews",
+        "magazine about ball matches",
+        "notice"
+      ],
+      "ground_truth": "D",
+      "prediction": "A",
+      "is_correct": false
+    },
+    {
+      "passage": "Central Sports Centre. City Road.\nAll Stars vs Rockets, Saturday 8: 30 p.m. $12\nNortherners vs Tigers, Sunday noon $14\nBUSHWALKING  :\nMeet at Wanda Station, Saturday 9:00 a.m. sharp for 3-hour walk to Canary Mountains. $7, ph 341-5432 Meet at Westley Station, Sunday 9:00 a.m. sharp for a full day walk to Wombak Valley. $5, ph 341-8643. Bring your own lunch.\nFOOTBALL:\nSt Martins Sports Centre\nSt Martins vs Doonsberg, Saturday 2:00 p.m. $8\nEastside Central vs Light Hill, Sunday 2:00 p.m. $8\nNeill Park Recreation Centre\nNeill Park vs Robinson, Saturday 2:00 p.m. $11\nEssen vs Springwood, Sunday 2:00 p.m. $11\nLAWN BOWLS :\nTans Town B.C\nTans Town vs White Vale, Saturday 9:00 p.m. $10\nWake Hill B.C.\nWake Hill vs Colls, Saturday 2: 00 p.m. $9",
+      "question": "If you have $18, you can go to watch both   _  .",
+      "options": [
+        "Walk Hill vs Colls and Essen vs Springwood",
+        "All Stars vs Rockets and the bushwalking at Westley Station",
+        "Neill Park vs Robinson and Eastside Central vs Light Hill",
+        "St Matins vs Doonsberg and Northerners vs Tigers"
+      ],
+      "ground_truth": "B",
+      "prediction": "C",
+      "is_correct": false
+    },
+    {
+      "passage": "Do you always understand the directions on a bottle of medicine? Do you know what is meant by \"Take only as directed\"? Read the following directions and see if you understand them.\n\"To reduce pain, take two tablets   with water, followed by one tablet every eight hours, as required. For night-time and early morning relief, take two tablets at bedtime. Do not take more than six tablets in twenty-four hours.\nFor children six to twelve years old, give half the amount. For children under six years old ,ask for your doctor's advice.\nReduce the amount if you suffer from restlessness or sleeplessness after taking the medicine\".",
+      "question": "How many tablets should a nine-year-old child normally take in 24 hours?",
+      "options": [
+        "Half a tablet",
+        "One tablet.",
+        "Two tablets",
+        "Four tablets."
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "is_correct": true
+    },
+    {
+      "passage": "Do you always understand the directions on a bottle of medicine? Do you know what is meant by \"Take only as directed\"? Read the following directions and see if you understand them.\n\"To reduce pain, take two tablets   with water, followed by one tablet every eight hours, as required. For night-time and early morning relief, take two tablets at bedtime. Do not take more than six tablets in twenty-four hours.\nFor children six to twelve years old, give half the amount. For children under six years old ,ask for your doctor's advice.\nReduce the amount if you suffer from restlessness or sleeplessness after taking the medicine\".",
+      "question": "What is the advice for one who cannot sleep well after taking the medicine?",
+      "options": [
+        "Stop taking the medicine at bedtime",
+        "Continue to take the normal amount.",
+        "Take more than the normal amount.",
+        "Take less than the normal amount."
+      ],
+      "ground_truth": "D",
+      "prediction": "C",
+      "is_correct": false
+    },
+    {
+      "passage": "Do you always understand the directions on a bottle of medicine? Do you know what is meant by \"Take only as directed\"? Read the following directions and see if you understand them.\n\"To reduce pain, take two tablets   with water, followed by one tablet every eight hours, as required. For night-time and early morning relief, take two tablets at bedtime. Do not take more than six tablets in twenty-four hours.\nFor children six to twelve years old, give half the amount. For children under six years old ,ask for your doctor's advice.\nReduce the amount if you suffer from restlessness or sleeplessness after taking the medicine\".",
+      "question": "This text is most probably taken from a .",
+      "options": [
+        "textbook",
+        "newsreel",
+        "doctor's notebook",
+        "bottle of medicine"
+      ],
+      "ground_truth": "A",
+      "prediction": "C",
+      "is_correct": false
+    },
+    {
+      "passage": "For thirty years, Johnson arrived at work at 9A.M. exactly. He never missed a day and was never late.\nHowever, on one particular day, 9A.M. passed without Johnson's arrival, it caused a sensation  . All workers stopped and wait, and the boss himself looked at his watch and complained.\nFinally, exactly at ten, Johnson turned up, clothes dusty and torn, his face hurt and bruised , his glasses bent. He limped painfully to the time clock, struck in with a strong fist, and said, knowing that all eyes were upon him, \"I fell and rolled down two flights of stairs in the subway and nearly killed myself.\"\nBut the boss said, \"And to roll down two flights of stairs took you a whole hour?\"",
+      "question": "How long did Johnson work in the company?",
+      "options": [
+        "9 years.",
+        "10 years.",
+        "20 years.",
+        "30 years."
+      ],
+      "ground_truth": "D",
+      "prediction": "C",
+      "is_correct": false
+    },
+    {
+      "passage": "For thirty years, Johnson arrived at work at 9A.M. exactly. He never missed a day and was never late.\nHowever, on one particular day, 9A.M. passed without Johnson's arrival, it caused a sensation  . All workers stopped and wait, and the boss himself looked at his watch and complained.\nFinally, exactly at ten, Johnson turned up, clothes dusty and torn, his face hurt and bruised , his glasses bent. He limped painfully to the time clock, struck in with a strong fist, and said, knowing that all eyes were upon him, \"I fell and rolled down two flights of stairs in the subway and nearly killed myself.\"\nBut the boss said, \"And to roll down two flights of stairs took you a whole hour?\"",
+      "question": "What did the other workers do when Johnson was late for work?",
+      "options": [
+        "They were waiting for Johnson.",
+        "They did their work as usual.",
+        "They complained against Johnson.",
+        "They were excited to see Johnson was late."
+      ],
+      "ground_truth": "A",
+      "prediction": "B",
+      "is_correct": false
+    },
+    {
+      "passage": "For thirty years, Johnson arrived at work at 9A.M. exactly. He never missed a day and was never late.\nHowever, on one particular day, 9A.M. passed without Johnson's arrival, it caused a sensation  . All workers stopped and wait, and the boss himself looked at his watch and complained.\nFinally, exactly at ten, Johnson turned up, clothes dusty and torn, his face hurt and bruised , his glasses bent. He limped painfully to the time clock, struck in with a strong fist, and said, knowing that all eyes were upon him, \"I fell and rolled down two flights of stairs in the subway and nearly killed myself.\"\nBut the boss said, \"And to roll down two flights of stairs took you a whole hour?\"",
+      "question": "What does the boss mean when he said \"And to roll down two flights of stairs took you a whole hour?\"?",
+      "options": [
+        "He was worried about Johnson's health.",
+        "He was glad that Johnson was late for work.",
+        "He was surprised at Johnson's being late for work.",
+        "He wanted to know more about the reason for Johnson's being late for work."
+      ],
+      "ground_truth": "D",
+      "prediction": "C",
+      "is_correct": false
+    },
+    {
+      "passage": "Barack Obama became US President in January, 2009. Since then, the world has been watching him closely to see whether he keeps his promises about the economy , foreign policy and health care.\nBut at home, he has also been under pressure from his two daughters to keep his promise: to give them a new dog as a gift for helping him with his election campaign .\nOn Tuesday the nation's first dog, named Bo, came out. It is a six-month-old water dog which is black with a white chest and white paws .\n\"Bo's got star quality,\" said President Obama as he and his family took a walk with the dog on the White House lawn  in front of reporters.\nHe then joked, \" I finally got a friend. It took some time,\" mentioning a famous saying,",
+      "question": "Barack Obama is    _    President now.",
+      "options": [
+        "French",
+        "British",
+        "Russian",
+        "American"
+      ],
+      "ground_truth": "D",
+      "prediction": "B",
+      "is_correct": false
+    },
+    {
+      "passage": "Barack Obama became US President in January, 2009. Since then, the world has been watching him closely to see whether he keeps his promises about the economy , foreign policy and health care.\nBut at home, he has also been under pressure from his two daughters to keep his promise: to give them a new dog as a gift for helping him with his election campaign .\nOn Tuesday the nation's first dog, named Bo, came out. It is a six-month-old water dog which is black with a white chest and white paws .\n\"Bo's got star quality,\" said President Obama as he and his family took a walk with the dog on the White House lawn  in front of reporters.\nHe then joked, \" I finally got a friend. It took some time,\" mentioning a famous saying,",
+      "question": "Which of the following is NOT true?",
+      "options": [
+        "The dog is called Bo.",
+        "The dog is six month old.",
+        "The dog is black and white.",
+        "The dog is all white."
+      ],
+      "ground_truth": "D",
+      "prediction": "D",
+      "is_correct": true
+    },
+    {
+      "passage": "Barack Obama became US President in January, 2009. Since then, the world has been watching him closely to see whether he keeps his promises about the economy , foreign policy and health care.\nBut at home, he has also been under pressure from his two daughters to keep his promise: to give them a new dog as a gift for helping him with his election campaign .\nOn Tuesday the nation's first dog, named Bo, came out. It is a six-month-old water dog which is black with a white chest and white paws .\n\"Bo's got star quality,\" said President Obama as he and his family took a walk with the dog on the White House lawn  in front of reporters.\nHe then joked, \" I finally got a friend. It took some time,\" mentioning a famous saying,",
+      "question": "The dog is Obama's gift to    _   .",
+      "options": [
+        "the reporters",
+        "his wife",
+        "his daughters",
+        "his sons"
+      ],
+      "ground_truth": "C",
+      "prediction": "B",
+      "is_correct": false
+    },
+    {
+      "passage": "During your stay outside Hong Kong, you may have been exposed to certain infectious  diseases without your knowledge.\nIn case you develop any symptom  such as fever, chills, skin rash, diarrhea or vomiting within 14 days of your arrival in Hong Kong, you should consult a doctor or attend an accident & emergency department or general outpatient clinic. Please bring along this card.\nCHIEF PORT HEALTH OFFICE\nThe Port Health Office\nTheir staff is glad to answer your questions about travel health.\nPlease inquire at:\n--Hong Kong Island\n18 F, Wu Chung House, 213 Queen's Rd. East, Wanchai.\nTel: 2961 8840\n-- Kowloon\nRoom 905, Government Offices, Canton Road\nTel: 2368 3361",
+      "question": "According to the passage, you may get some infectious diseases   _  .",
+      "options": [
+        "when arriving in Hong Kong",
+        "before you understand them",
+        "within 2 weeks of your arriving in Hong Kong",
+        "before arriving in Hong Kong"
+      ],
+      "ground_truth": "D",
+      "prediction": "C",
+      "is_correct": false
+    },
+    {
+      "passage": "During your stay outside Hong Kong, you may have been exposed to certain infectious  diseases without your knowledge.\nIn case you develop any symptom  such as fever, chills, skin rash, diarrhea or vomiting within 14 days of your arrival in Hong Kong, you should consult a doctor or attend an accident & emergency department or general outpatient clinic. Please bring along this card.\nCHIEF PORT HEALTH OFFICE\nThe Port Health Office\nTheir staff is glad to answer your questions about travel health.\nPlease inquire at:\n--Hong Kong Island\n18 F, Wu Chung House, 213 Queen's Rd. East, Wanchai.\nTel: 2961 8840\n-- Kowloon\nRoom 905, Government Offices, Canton Road\nTel: 2368 3361",
+      "question": "If you find any symptom, which of the following places is not the place where you should go?",
+      "options": [
+        "The hospital.",
+        "The accident & emergency department.",
+        "The Port Health Office.",
+        "The clinic."
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "is_correct": true
+    },
+    {
+      "passage": "During your stay outside Hong Kong, you may have been exposed to certain infectious  diseases without your knowledge.\nIn case you develop any symptom  such as fever, chills, skin rash, diarrhea or vomiting within 14 days of your arrival in Hong Kong, you should consult a doctor or attend an accident & emergency department or general outpatient clinic. Please bring along this card.\nCHIEF PORT HEALTH OFFICE\nThe Port Health Office\nTheir staff is glad to answer your questions about travel health.\nPlease inquire at:\n--Hong Kong Island\n18 F, Wu Chung House, 213 Queen's Rd. East, Wanchai.\nTel: 2961 8840\n-- Kowloon\nRoom 905, Government Offices, Canton Road\nTel: 2368 3361",
+      "question": "Where can a foreigner read this kind of notice?",
+      "options": [
+        "At the Customs.",
+        "At hospital.",
+        "On 18 F, Wu Chung House, 213 Queen's Rd. East, Wanchai",
+        "In Room 905, Government Offices, Canton Road, Kowloon."
+      ],
+      "ground_truth": "A",
+      "prediction": "C",
+      "is_correct": false
+    },
+    {
+      "passage": "During your stay outside Hong Kong, you may have been exposed to certain infectious  diseases without your knowledge.\nIn case you develop any symptom  such as fever, chills, skin rash, diarrhea or vomiting within 14 days of your arrival in Hong Kong, you should consult a doctor or attend an accident & emergency department or general outpatient clinic. Please bring along this card.\nCHIEF PORT HEALTH OFFICE\nThe Port Health Office\nTheir staff is glad to answer your questions about travel health.\nPlease inquire at:\n--Hong Kong Island\n18 F, Wu Chung House, 213 Queen's Rd. East, Wanchai.\nTel: 2961 8840\n-- Kowloon\nRoom 905, Government Offices, Canton Road\nTel: 2368 3361",
+      "question": "Which of the following is NOT true?",
+      "options": [
+        "Skin rash is an infectious disease.",
+        "There are two Departments of Health, one in Hong Kong Island and the other in Kowloon.",
+        "You may have some trouble without this card when you go to hospital.",
+        "It is very possible that you get some infectious disease but you don't know it."
+      ],
+      "ground_truth": "B",
+      "prediction": "D",
+      "is_correct": false
+    },
+    {
+      "passage": "On the River Thames there are a number of boat races every year and these have become very popular with the public. Perhaps the best-known of these races is the University Boat Race. This takes place just before Easter every year and is a competition between teams from the Universities of Oxford and Cambridge. They row from Putney to Mertlake, a distance of about four and a quarter miles. This race has been taking place almost every year since 1829.",
+      "question": "The best - known of these races is   _  .",
+      "options": [
+        "the Boat Race of the University of Oxford.",
+        "the Boat Race of the University of Cambridge",
+        "the Boat Race of the Olympic Games",
+        "the University Boat Race"
+      ],
+      "ground_truth": "D",
+      "prediction": "B",
+      "is_correct": false
+    },
+    {
+      "passage": "On the River Thames there are a number of boat races every year and these have become very popular with the public. Perhaps the best-known of these races is the University Boat Race. This takes place just before Easter every year and is a competition between teams from the Universities of Oxford and Cambridge. They row from Putney to Mertlake, a distance of about four and a quarter miles. This race has been taking place almost every year since 1829.",
+      "question": "Generally, the Boat Race takes place   _  .",
+      "options": [
+        "once a year",
+        "twice a year",
+        "every three years",
+        "every other year"
+      ],
+      "ground_truth": "A",
+      "prediction": "A",
+      "is_correct": true
+    },
+    {
+      "passage": "On the River Thames there are a number of boat races every year and these have become very popular with the public. Perhaps the best-known of these races is the University Boat Race. This takes place just before Easter every year and is a competition between teams from the Universities of Oxford and Cambridge. They row from Putney to Mertlake, a distance of about four and a quarter miles. This race has been taking place almost every year since 1829.",
+      "question": "The words \"Putney\" and \"Mertlake\" are   _  .",
+      "options": [
+        "names of places",
+        "names of teams",
+        "names of boat races",
+        "names of universities"
+      ],
+      "ground_truth": "A",
+      "prediction": "B",
+      "is_correct": false
+    },
+    {
+      "passage": "Part-time Waitress\nBusy cafe needs honest and good-looking waitress for weekends. Must enjoy working with a team and dealing with customers. Call Li Ling at 0732-8536724 after 6 pm.\nDelivery   Person\nYoung, healthy person able to deliver heavy boxes of books. Must have a driver's license and can carry heavy boxes. We're looking for a person for this position. Call Liu Fang at 0732-7887766 at any time.\n _ Wanted\nKind, hard-working nanny wanted to look after three friendly children. Must be experienced and have childcare quail fications . Please call Chen Yiping at 0732-6774538 between 10 a.m. and 4 p.m",
+      "question": "These are   _   in the newspaper.",
+      "options": [
+        "notices",
+        "ads",
+        "stories",
+        "news"
+      ],
+      "ground_truth": "B",
+      "prediction": "B",
+      "is_correct": true
+    },
+    {
+      "passage": "Part-time Waitress\nBusy cafe needs honest and good-looking waitress for weekends. Must enjoy working with a team and dealing with customers. Call Li Ling at 0732-8536724 after 6 pm.\nDelivery   Person\nYoung, healthy person able to deliver heavy boxes of books. Must have a driver's license and can carry heavy boxes. We're looking for a person for this position. Call Liu Fang at 0732-7887766 at any time.\n _ Wanted\nKind, hard-working nanny wanted to look after three friendly children. Must be experienced and have childcare quail fications . Please call Chen Yiping at 0732-6774538 between 10 a.m. and 4 p.m",
+      "question": "If you can get the job in the cafe, you must be a   _  .",
+      "options": [
+        "pretty young woman",
+        "good-looking boy",
+        "cool young man",
+        "hard-working student"
+      ],
+      "ground_truth": "A",
+      "prediction": "B",
+      "is_correct": false
+    },
+    {
+      "passage": "Part-time Waitress\nBusy cafe needs honest and good-looking waitress for weekends. Must enjoy working with a team and dealing with customers. Call Li Ling at 0732-8536724 after 6 pm.\nDelivery   Person\nYoung, healthy person able to deliver heavy boxes of books. Must have a driver's license and can carry heavy boxes. We're looking for a person for this position. Call Liu Fang at 0732-7887766 at any time.\n _ Wanted\nKind, hard-working nanny wanted to look after three friendly children. Must be experienced and have childcare quail fications . Please call Chen Yiping at 0732-6774538 between 10 a.m. and 4 p.m",
+      "question": "Who can do the delivery job?",
+      "options": [
+        "A beautiful woman who is good at selling books.",
+        "A person who has been a taxi driver for more than 40 years.",
+        "A beautiful and hard-working girl.",
+        "A strong young man who can drive."
+      ],
+      "ground_truth": "D",
+      "prediction": "C",
+      "is_correct": false
+    },
+    {
+      "passage": "Part-time Waitress\nBusy cafe needs honest and good-looking waitress for weekends. Must enjoy working with a team and dealing with customers. Call Li Ling at 0732-8536724 after 6 pm.\nDelivery   Person\nYoung, healthy person able to deliver heavy boxes of books. Must have a driver's license and can carry heavy boxes. We're looking for a person for this position. Call Liu Fang at 0732-7887766 at any time.\n _ Wanted\nKind, hard-working nanny wanted to look after three friendly children. Must be experienced and have childcare quail fications . Please call Chen Yiping at 0732-6774538 between 10 a.m. and 4 p.m",
+      "question": "Which of the four statements is true?",
+      "options": [
+        "You can call Chen Yiping in the evening.",
+        "If you want to call Li Ling, do it in the morning.",
+        "You can call Liu Fang at any time.",
+        "If you want to call Li Ling, you can do it in the afternoon."
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "is_correct": true
+    },
+    {
+      "passage": "Six people were traveling in a compartment   on a train. Five of them were quiet and well behaved , but the sixth was a rude young man who was causing a lot of trouble to the other passengers.\nAt last this young man got out of the station with his two heavy bags. None of the other passengers helped him, but one of them waited until the rude young man was very far away, and then opened the window to him, \" You left something behind in the compartment!\" Then he closed the window again.\nThe young man turned around and hurried back with his two bags. He was very tired when he arrived, but he shouted through the window, \" What did I leave behind?\"\nAs the train began to move again, the passenger who had called him back opened the window and said, \" A very bad impression!\"",
+      "question": "Of the six passengers in the compartment   _  .",
+      "options": [
+        "five of them were rude and badly behaved",
+        "one of them was rude and badly behaved",
+        "five were always causing trouble on the train",
+        "only one was quiet and well behaved"
+      ],
+      "ground_truth": "B",
+      "prediction": "B",
+      "is_correct": true
+    },
+    {
+      "passage": "Six people were traveling in a compartment   on a train. Five of them were quiet and well behaved , but the sixth was a rude young man who was causing a lot of trouble to the other passengers.\nAt last this young man got out of the station with his two heavy bags. None of the other passengers helped him, but one of them waited until the rude young man was very far away, and then opened the window to him, \" You left something behind in the compartment!\" Then he closed the window again.\nThe young man turned around and hurried back with his two bags. He was very tired when he arrived, but he shouted through the window, \" What did I leave behind?\"\nAs the train began to move again, the passenger who had called him back opened the window and said, \" A very bad impression!\"",
+      "question": "When the rude young man got off the train   _  .",
+      "options": [
+        "he left his two bags behind",
+        "he was thrown out through the window",
+        "the other five passengers didn't help him",
+        "one of the other passengers opened the window for him"
+      ],
+      "ground_truth": "C",
+      "prediction": "B",
+      "is_correct": false
+    },
+    {
+      "passage": "Six people were traveling in a compartment   on a train. Five of them were quiet and well behaved , but the sixth was a rude young man who was causing a lot of trouble to the other passengers.\nAt last this young man got out of the station with his two heavy bags. None of the other passengers helped him, but one of them waited until the rude young man was very far away, and then opened the window to him, \" You left something behind in the compartment!\" Then he closed the window again.\nThe young man turned around and hurried back with his two bags. He was very tired when he arrived, but he shouted through the window, \" What did I leave behind?\"\nAs the train began to move again, the passenger who had called him back opened the window and said, \" A very bad impression!\"",
+      "question": "The passenger who had called him back wanted",
+      "options": [
+        "to punish him for his bad behavior",
+        "to have a word with him about his behavior",
+        "to help him with his behavior",
+        "to return him the things he had left on the train"
+      ],
+      "ground_truth": "A",
+      "prediction": "B",
+      "is_correct": false
+    },
+    {
+      "passage": "A man in a very splendid restaurant started to take off his jacket. Seeing this, the head waiter dashed to his table and said, \" I'm afraid I must ask you to keep your jacket on, sir, for it is not good manners to do it in such a smart restaurant.\"\n\"Now listen,\" said the man, \"I'll let you know that the Queen of England gave me permission to remove my jacket here.\" \"The Queen of England?\" said the waiter in great surprise. \"Sure,\" replied the man, \" When I was in England last month, a friend of mine who had a very important position in high society took me to see the Queen. It was rather hot, so I started taking my coat off. The Queen looked over and said, \"You may do that in the United States, but you may not do it here. \" So I got the Queen's permission, right?",
+      "question": "When the head waiter asked the man not to take off his jacket, the man   _  .",
+      "options": [
+        "took his advice immediately",
+        "obeyed him without any hesitation",
+        "apologized for his bad manners",
+        "refused to listen to him"
+      ],
+      "ground_truth": "D",
+      "prediction": "B",
+      "is_correct": false
+    },
+    {
+      "passage": "A man in a very splendid restaurant started to take off his jacket. Seeing this, the head waiter dashed to his table and said, \" I'm afraid I must ask you to keep your jacket on, sir, for it is not good manners to do it in such a smart restaurant.\"\n\"Now listen,\" said the man, \"I'll let you know that the Queen of England gave me permission to remove my jacket here.\" \"The Queen of England?\" said the waiter in great surprise. \"Sure,\" replied the man, \" When I was in England last month, a friend of mine who had a very important position in high society took me to see the Queen. It was rather hot, so I started taking my coat off. The Queen looked over and said, \"You may do that in the United States, but you may not do it here. \" So I got the Queen's permission, right?",
+      "question": "What the Queen really meant was that   _  .",
+      "options": [
+        "people in the U.S. were stupid and less polite",
+        "she permitted him to take off his jacket in America",
+        "the English and the Americans enjoyed different ways of life",
+        "he shouldn't take off his coat in such a formal occasion in England"
+      ],
+      "ground_truth": "D",
+      "prediction": "B",
+      "is_correct": false
+    },
+    {
+      "passage": "A man in a very splendid restaurant started to take off his jacket. Seeing this, the head waiter dashed to his table and said, \" I'm afraid I must ask you to keep your jacket on, sir, for it is not good manners to do it in such a smart restaurant.\"\n\"Now listen,\" said the man, \"I'll let you know that the Queen of England gave me permission to remove my jacket here.\" \"The Queen of England?\" said the waiter in great surprise. \"Sure,\" replied the man, \" When I was in England last month, a friend of mine who had a very important position in high society took me to see the Queen. It was rather hot, so I started taking my coat off. The Queen looked over and said, \"You may do that in the United States, but you may not do it here. \" So I got the Queen's permission, right?",
+      "question": "It is certain that the story happened   _  .",
+      "options": [
+        "in England",
+        "in the Queen's party",
+        "in America",
+        "in an ordinary restaurant"
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "is_correct": true
+    }
+  ]
+}
